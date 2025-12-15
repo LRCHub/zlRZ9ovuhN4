@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "最愛の果て",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-15T10:10:19.488758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最愛の果て",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/01_最愛の果て_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最愛の果て - Saiai No Hate",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/02_最愛の果て_-_Saiai_No_Hate_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最愛の果て",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_最愛の果て_My_Hair_is_Bad.txt"
+    }
+  ]
+}
