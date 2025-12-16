@@ -1,32 +1,112 @@
 {
   "version": 1,
-  "base_track": "最愛の果て",
-  "base_artist": "My Hair Is Bad",
-  "createdAt": "2025-12-15T10:10:19.488758Z",
+  "base_track": "ただ",
+  "base_artist": "My Hair is Bad",
+  "createdAt": "2025-12-16T01:39:45.108613Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "最愛の果て",
-      "artist": "My Hair is Bad",
-      "has_synced": true,
-      "path": "select/01_最愛の果て_My_Hair_is_Bad.lrc"
+      "title": "ただ・愛のためにだけ",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/01_ただ・愛のためにだけ_Miyuki_Nakajima.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "最愛の果て - Saiai No Hate",
-      "artist": "My Hair Is Bad",
+      "title": "ただ・愛のためにだけ",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/02_ただ・愛のためにだけ_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ただ､ありがとう",
+      "artist": "MONKEY MAJIK",
       "has_synced": true,
-      "path": "select/02_最愛の果て_-_Saiai_No_Hate_My_Hair_Is_Bad.lrc"
+      "path": "select/03_ただ、ありがとう_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ただ、ありがとう",
+      "artist": "Monkey Majik",
+      "has_synced": false,
+      "path": "select/04_ただ、ありがとう_Monkey_Majik.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ただ、透明",
+      "artist": "ユノギ シロ",
+      "has_synced": true,
+      "path": "select/05_ただ、透明_ユノギ_シロ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ただ - Tada",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/06_ただ_-_Tada_CreepHyp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ただ、まだ、私。 -tada, mada, watashi.- - Radio Edit Ver.",
+      "artist": "sukekiyo",
+      "has_synced": true,
+      "path": "select/07_ただ、まだ、私。_-tada,_mada,_watashi.-_-_Radio_Edit_Ver._sukekiyo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ただ…逢いたくて",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/08_ただ...逢いたくて_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ただ、まだ、私。",
+      "artist": "sukekiyo",
+      "has_synced": true,
+      "path": "select/09_ただ、まだ、私。_sukekiyo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ただ…逢いたくて",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/10_ただ...逢いたくて_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ただ、まだ、私。",
+      "artist": "sukekiyo",
+      "has_synced": true,
+      "path": "select/11_ただ、まだ、私。_sukekiyo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ただ･･･逢いたくて",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/12_ただ・・・逢いたくて_EXILE.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "最愛の果て",
+      "title": "ただ",
       "artist": "My Hair is Bad",
       "has_synced": false,
-      "path": "select/pl_01_最愛の果て_My_Hair_is_Bad.txt"
+      "path": "select/pl_01_ただ_My_Hair_is_Bad.txt"
     }
   ]
 }
